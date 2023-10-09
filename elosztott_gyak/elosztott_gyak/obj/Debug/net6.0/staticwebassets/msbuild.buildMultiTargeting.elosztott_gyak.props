@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\elosztott_gyak.props" />
+</Project>
